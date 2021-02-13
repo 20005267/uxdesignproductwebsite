@@ -18,16 +18,16 @@ Preview the prototype.
 
 ## DESIGN SCREENS:
 
-![output](.static/img/outputa.jpg)
+![output](./static/img/output1.jpg)
 
 ## WIREFRAME:
 
-![output](.static/img/outputb.jpg)
+![output](./static/img/output2.jpg)
 
 ## PROTOTYPE:
 
-![output](.static/img/outputc.jpg)
-![output](.static/img/outputd.jpg)
+![output](./static/img/output3.jpg)
+![output](./static/img/output4.jpg)
 
 ## RESULT:
 ```
