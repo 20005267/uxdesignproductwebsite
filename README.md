@@ -29,7 +29,6 @@ Preview the prototype.
 ![output](.static/img/outputc.jpg)
 ![output](.static/img/outputd.jpg)
 
-
 ## RESULT:
 ```
 Thus a website is designed for the book publishing company.
